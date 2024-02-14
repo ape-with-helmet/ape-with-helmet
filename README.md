@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @ape-with-helmet
+- 👋 Hi, I’m Sadhguna Aithal 
 - 👀 I’m interested in motorcycling and some coding
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me? dont
-
-
+- 🌱 I’m currently upgrading my FullStack Skill
